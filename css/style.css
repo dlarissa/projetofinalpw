@@ -1,0 +1,43 @@
+
+
+.nome1{
+    text-align: center;
+    color:white;
+    font-family:inherit;
+    background-color:RGB(240, 178, 97);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.icon{
+    margin-left: 740px;
+}
+
+.foto1 {
+    margin-left:200px;
+    border-right: 15px solid ivory;
+}
+
+.foto2{
+    margin-left:400px;
+    margin-right:400px;
+    border-left:30px solid ivory;
+    border-right:30px solid ivory;
+    border-bottom:30px solid ivory;
+}
+
+.nome2{
+    color:RGB(240, 178, 97);
+}
+
+.nome2:hover{
+    color:rgb(255, 166, 0);
+}
+
+.texto{
+    margin-left:200px;
+    margin-right:200px;
+    background-color: ivory;
+    padding:15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
